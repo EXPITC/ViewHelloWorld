@@ -1,0 +1,12 @@
+.content {
+  font-size:27px;
+}
+.content span {
+  color:red;
+}
+.content h1 {
+  font-weight:bold;
+}
+.container {
+  margin-left:80px;
+}
