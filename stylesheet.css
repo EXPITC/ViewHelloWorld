@@ -14,7 +14,9 @@ span {
 .container {
   margin-left:80px;
 }
-.link {
-  text-decoration: none;
-  background-color: none;
+.link
+{
+   color:aqua;
+   text-decoration: none; 
+   background-color: none;
 }
