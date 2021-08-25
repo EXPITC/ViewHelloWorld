@@ -9,8 +9,12 @@ span {
 }
 .content h1 {
   font-weight:bold;
+  color:black;
 }
 .container {
   margin-left:80px;
 }
-a {text-decoration: none; background-color: none; }
+a {
+  text-decoration: none;
+  background-color: none;
+}
